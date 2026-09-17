@@ -1,0 +1,25 @@
+EL PUERTO QUE HACEN EN BARCELONA — COPIA DE CONSULTA
+
+Esta carpeta contiene una copia autónoma y de solo lectura de la transcripción
+digital anotada. No incluye la ruta editorial /editar ni permite modificar los
+datos publicados.
+
+PARA CONSULTARLA
+
+1. Descomprima el archivo ZIP completo.
+2. Abra index.html en un navegador reciente.
+
+También puede subir el contenido descomprimido a cualquier alojamiento de
+archivos estáticos. index.html debe permanecer en el mismo nivel que app.js y
+la carpeta assets.
+
+CONTENIDO CONSERVADO
+
+- Interfaz inicial y despliegue del pliego.
+- 27 entradas y 43 delimitaciones anotadas.
+- Visor de alta resolución y pantalla completa.
+- Cinco miniaturas ampliables.
+- Vista paralela del dibujo atribuido a Rafaela Puig.
+
+Esta copia corresponde a la versión pública 18 del prototipo, recuperada el
+17 de septiembre de 2026.
